@@ -19,3 +19,4 @@ These scripts uses basic public APIs but can be replaced by any API we need.
     The script now runs on the grafana cloud.
 5. View the test execution and test results on grafana dashboard.
 
+<img width="1148" alt="Screenshot 2025-03-10 at 12 17 16" src="https://github.com/user-attachments/assets/005ada90-f420-46bc-b0aa-404fa83d4b60" />
